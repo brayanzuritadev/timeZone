@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectTest\\ConsoleApp1\\ConsoleApp1\\Console1.csproj",
-      "projectName": "Console1",
-      "projectPath": "D:\\ProjectTest\\ConsoleApp1\\ConsoleApp1\\Console1.csproj",
+      "projectUniqueName": "D:\\ProjectTest\\ConsoleApp1\\ConsoleApp1\\TimeZones.csproj",
+      "projectName": "TimeZones",
+      "projectPath": "D:\\ProjectTest\\ConsoleApp1\\ConsoleApp1\\TimeZones.csproj",
       "packagesPath": "C:\\Users\\Brayan\\.nuget\\packages\\",
       "outputPath": "D:\\ProjectTest\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,5 @@
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\testhost.dll
-D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\Console1.deps.json
-D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\Console1.runtimeconfig.json
-D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\Console1.exe
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\testhost.exe
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
@@ -92,9 +89,7 @@ D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.Vi
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\Console1.dll
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\Console1.pdb
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\obj\Debug\net6.0\TimeZones.Tests.csproj.AssemblyReference.cache
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\obj\Debug\net6.0\TimeZones.Tests.GeneratedMSBuildEditorConfig.editorconfig
@@ -107,3 +102,8 @@ D:\ProjectTest\ConsoleApp1\TimeZones.Tests\obj\Debug\net6.0\refint\TimeZones.Tes
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\obj\Debug\net6.0\TimeZones.Tests.pdb
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\obj\Debug\net6.0\TimeZones.Tests.genruntimeconfig.cache
 D:\ProjectTest\ConsoleApp1\TimeZones.Tests\obj\Debug\net6.0\ref\TimeZones.Tests.dll
+D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\TimeZones.deps.json
+D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\TimeZones.runtimeconfig.json
+D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\TimeZones.exe
+D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\TimeZones.dll
+D:\ProjectTest\ConsoleApp1\TimeZones.Tests\bin\Debug\net6.0\TimeZones.pdb

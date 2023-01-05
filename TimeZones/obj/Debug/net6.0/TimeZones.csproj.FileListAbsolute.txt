@@ -1,0 +1,15 @@
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TimeZones.exe
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TimeZones.deps.json
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TimeZones.runtimeconfig.json
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TimeZones.dll
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TimeZones.pdb
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TimeZones.csproj.AssemblyReference.cache
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TimeZones.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TimeZones.AssemblyInfoInputs.cache
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TimeZones.AssemblyInfo.cs
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TimeZones.csproj.CoreCompileInputs.cache
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TimeZones.dll
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\TimeZones.dll
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TimeZones.pdb
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TimeZones.genruntimeconfig.cache
+D:\ProjectTest\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\TimeZones.dll

@@ -1902,14 +1902,14 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "Console1/1.0.0": {
+      "TimeZones/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Console1.dll": {}
+          "bin/placeholder/TimeZones.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Console1.dll": {}
+          "bin/placeholder/TimeZones.dll": {}
         }
       }
     }
@@ -6772,18 +6772,18 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "Console1/1.0.0": {
+    "TimeZones/1.0.0": {
       "type": "project",
-      "path": "../ConsoleApp1/Console1.csproj",
-      "msbuildProject": "../ConsoleApp1/Console1.csproj"
+      "path": "../ConsoleApp1/TimeZones.csproj",
+      "msbuildProject": "../ConsoleApp1/TimeZones.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Console1 >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
+      "TimeZones >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -6814,8 +6814,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ProjectTest\\ConsoleApp1\\ConsoleApp1\\Console1.csproj": {
-              "projectPath": "D:\\ProjectTest\\ConsoleApp1\\ConsoleApp1\\Console1.csproj"
+            "D:\\ProjectTest\\ConsoleApp1\\ConsoleApp1\\TimeZones.csproj": {
+              "projectPath": "D:\\ProjectTest\\ConsoleApp1\\ConsoleApp1\\TimeZones.csproj"
             }
           }
         }

@@ -10,7 +10,7 @@ namespace Console1
     public class TimeZones
     {
 
-        public string ConvertDateAndTime(DateTime dateTime, string timeZoneSource, string timeZoneDestination)
+        public static string ConvertDateAndTime(DateTime dateTime, string timeZoneSource, string timeZoneDestination)
         {
 
             try
@@ -48,7 +48,7 @@ namespace Console1
             return "";
         }
 
-        public string DifferenceBetweenTimeZone(string timeZoneSource, string timeZoneDestination)
+        public static string DifferenceBetweenTimeZone(string timeZoneSource, string timeZoneDestination)
         {
             TimeZoneInfo dateTimeZoneSource = TimeZoneInfo.FindSystemTimeZoneById(timeZoneSource);
 
@@ -59,7 +59,7 @@ namespace Console1
             return diference.ToString();
         }
 
-        public string DateTimeformat(DateTime dateTime)
+        public  static string DateTimeformat(DateTime dateTime)
         {
             string convertedDate = dateTime.ToString("yyyyMMddHHmmss");
 

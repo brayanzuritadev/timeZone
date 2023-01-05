@@ -9,7 +9,7 @@ public class TimeZonesTests
         //preparacion
         var timeZones = new TimeZones();
         //ejecucion
-        var result = timeZones.ConvertDateAndTime(new DateTime(2023, 01, 04, 22, 56, 00), "Argentina Standard Time", "America/Asuncion");
+        var result = TimeZones.ConvertDateAndTime(new DateTime(2023, 01, 04, 22, 56, 00), "Argentina Standard Time", "America/Asuncion");
         //verificacion
         Assert.AreEqual("1/4/2023 10:56:00 PM Hora de verano de Paraguay",result);
     }
@@ -19,7 +19,7 @@ public class TimeZonesTests
     {
         var timeZones = new TimeZones();
         //ejecucion
-        var result = timeZones.DifferenceBetweenTimeZone("Argentina Standard Time", "America/Asuncion");
+        var result = TimeZones.DifferenceBetweenTimeZone("Argentina Standard Time", "America/Asuncion");
         //verificacion
         Assert.AreEqual("01:00:00", result);
     }
@@ -29,7 +29,7 @@ public class TimeZonesTests
     {
         var timeZones = new TimeZones();
         //ejecucion
-        var result = timeZones.DateTimeformat(new DateTime(2023, 01, 04, 22, 56, 00));
+        var result = TimeZones.DateTimeformat(new DateTime(2023, 01, 04, 22, 56, 00));
         //verificacion
         Assert.AreEqual("20230104225600", result);
     }
