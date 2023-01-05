@@ -1,0 +1,12 @@
+D:\ProjectTest\TimeZone\TimeZone\bin\Debug\net6.0\TimeZone.deps.json
+D:\ProjectTest\TimeZone\TimeZone\bin\Debug\net6.0\TimeZone.dll
+D:\ProjectTest\TimeZone\TimeZone\bin\Debug\net6.0\TimeZone.pdb
+D:\ProjectTest\TimeZone\TimeZone\obj\Debug\net6.0\TimeZone.csproj.AssemblyReference.cache
+D:\ProjectTest\TimeZone\TimeZone\obj\Debug\net6.0\TimeZone.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTest\TimeZone\TimeZone\obj\Debug\net6.0\TimeZone.AssemblyInfoInputs.cache
+D:\ProjectTest\TimeZone\TimeZone\obj\Debug\net6.0\TimeZone.AssemblyInfo.cs
+D:\ProjectTest\TimeZone\TimeZone\obj\Debug\net6.0\TimeZone.csproj.CoreCompileInputs.cache
+D:\ProjectTest\TimeZone\TimeZone\obj\Debug\net6.0\TimeZone.dll
+D:\ProjectTest\TimeZone\TimeZone\obj\Debug\net6.0\refint\TimeZone.dll
+D:\ProjectTest\TimeZone\TimeZone\obj\Debug\net6.0\TimeZone.pdb
+D:\ProjectTest\TimeZone\TimeZone\obj\Debug\net6.0\ref\TimeZone.dll
